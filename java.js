@@ -23,6 +23,7 @@ function linijas(){
 		
 		ctx.strokeStyle = 'black';
 		ctx.stroke();
+
 }
 
 
